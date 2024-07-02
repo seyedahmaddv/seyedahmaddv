@@ -32,7 +32,7 @@ Remote React.js and Next.js projects
 
 **Contact:**
 
-[Linkedin][(URL example website com)](https://www.linkedin.com/in/seyedahmaddv)
+[Linkedin][(My Posts and Projects)](https://www.linkedin.com/in/seyedahmaddv)
 
 **Pronouns:**
 
