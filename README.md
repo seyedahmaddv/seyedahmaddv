@@ -24,6 +24,12 @@ I'm a passionate React.js and Next.js developer seeking remote opportunities. I 
   * Proficient in SQL for data manipulation and retrieval.
 * **Frameworks:**
   * Experience with Firebase for real-time data handling and authentication.
+  * Experience with Microsoft Azure for cloud services and deployments.
+  * Experience with Amazon Web Services (AWS) for hosting and server management.
+* **Version Control:**
+  * Experienced with Git and GitHub for version control and collaboration on projects.
+* **CI/CD:**
+  * Familiar with continuous integration and deployment using tools like GitHub Actions, Jenkins, and Docker.
 
 ### **Education:**
 
@@ -33,7 +39,7 @@ I'm a passionate React.js and Next.js developer seeking remote opportunities. I 
 
 Remote React.js and Next.js projects.
 
-### **Links:**
+### **Contact:**
 
 [LinkedIn](https://www.linkedin.com/in/seyedahmaddv) | [Dev.to](https://dev.to/seyedahmaddv)
 
@@ -43,7 +49,8 @@ He/Him
 
 ### **Interests:**
 
-* The Silicon Valley TV Show [link](https://www.imdb.com/title/tt2575988/)  
+* Star Wars movies [link](#)  
+* The Silicon Valley TV Show [link](#)  
 * Attending IT, computer, and programming conferences  
 * Programming competitions and challenges  
 * Reading books  
