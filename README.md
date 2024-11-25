@@ -48,9 +48,8 @@ Remote React.js and Next.js projects.
 He/Him
 
 ### **Interests:**
-
-* Star Wars movies [link](#)  
-* The Silicon Valley TV Show [link](#)  
+ 
+* The Silicon Valley TV Show [link](https://www.imdb.com/title/tt2575988/)  
 * Attending IT, computer, and programming conferences  
 * Programming competitions and challenges  
 * Reading books  
