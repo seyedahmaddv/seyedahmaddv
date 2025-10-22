@@ -33,5 +33,4 @@ Tech conferences, programming competitions, reading, hiking, yoga, and staying a
 ---
 
 ### 📬 Contact
-- [LinkedIn](https://www.linkedin.com/in/seyedahmaddv)  
-- [انصارالقرآن](https://ansarquran.com/)
+- [LinkedIn](https://www.linkedin.com/in/seyedahmaddv)
