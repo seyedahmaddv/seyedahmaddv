@@ -18,15 +18,17 @@ Passionate about clean code, component reusability, and delivering real business
 
 ## 📂 Featured Projects
 
+🔹 [**Hasan Tehrani Moghadam Card**](https://github.com/seyedahmaddv/hasan-tehrani-card) — Tribute profile card honoring Iran’s Father of Missile Program, built with HTML & CSS.
+
+🔹 [**AnsarolQuran Platform**](https://github.com/seyedahmaddv/ansarolquran) — Educational web app for Quran learning, using TypeScript and modern React features.  
+
 🔹 [**Portfolio**](https://github.com/seyedahmaddv/seyedahmaddev) — Personal portfolio built with Next.js and TailwindCSS to showcase projects and articles.  
 
 🔹 [**Furniro React App**](https://github.com/seyedahmaddv/furniro-react) — E-commerce store with dynamic cart, responsive design, and modular components.  
 
 🔹 [**Pricing Tables & Plans**](https://github.com/seyedahmaddv/pricing-tables-plans) — Accessible, multi-language pricing UI built with React + TypeScript.  
 
-🔹 [**AnsarolQuran Platform**](https://github.com/seyedahmaddv/ansarolquran) — Educational web app for Quran learning, using TypeScript and modern React features.  
-
-🔹 [**Hasan Tehrani Moghadam Card**](https://github.com/seyedahmaddv/hasan-tehrani-card) — Tribute profile card honoring Iran’s Father of Missile Program, built with HTML & CSS.  
+  
 
 ---
 
