@@ -2,7 +2,11 @@
 ### 💻 Remote React.js & Next.js Developer  
 
 I build **scalable, performant, and user-friendly web applications** using modern frontend frameworks and cloud technologies.  
-Passionate about clean code, component reusability, and delivering real business value through fast, accessible, and visually engaging UI.
+Passionate about clean code, component reusability, and delivering real business value through fast, accessible, and visually engaging UI.  
+
+Recently, I developed a **Marketplace Dashboard** — a professional e-commerce management platform that helps sellers manage products, orders, customers, and analytics in one place.  
+
+👉 [Live Demo](https://marketplace-seyedahmad.vercel.app/)  
 
 ---
 
@@ -18,7 +22,9 @@ Passionate about clean code, component reusability, and delivering real business
 
 ## 📂 Featured Projects
 
-🔹 [**Hasan Tehrani Moghadam Card**](https://github.com/seyedahmaddv/hasan-tehrani-card) — Tribute profile card honoring Iran’s Father of Missile Program, built with HTML & CSS.
+🔹 [**Marketplace Dashboard**](https://marketplace-seyedahmad.vercel.app/) — Full-featured e-commerce management platform with product management, order tracking, customer messaging, and business analytics. Built with Next.js 16, TailwindCSS, Zustand, and Radix UI.  
+
+🔹 [**Hasan Tehrani Moghadam Card**](https://github.com/seyedahmaddv/hasan-tehrani-card) — Tribute profile card honoring Iran’s Father of Missile Program, built with HTML & CSS.  
 
 🔹 [**AnsarolQuran Platform**](https://github.com/seyedahmaddv/ansarolquran) — Educational web app for Quran learning, using TypeScript and modern React features.  
 
@@ -27,8 +33,6 @@ Passionate about clean code, component reusability, and delivering real business
 🔹 [**Furniro React App**](https://github.com/seyedahmaddv/furniro-react) — E-commerce store with dynamic cart, responsive design, and modular components.  
 
 🔹 [**Pricing Tables & Plans**](https://github.com/seyedahmaddv/pricing-tables-plans) — Accessible, multi-language pricing UI built with React + TypeScript.  
-
-  
 
 ---
 
