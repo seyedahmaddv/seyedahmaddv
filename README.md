@@ -12,11 +12,11 @@ Recently, I developed a **Marketplace Dashboard** — a professional e-commerce 
 
 ## 🚀 Tech Stack
 
-**Frontend:** React.js • Next.js (App Router, SSR/CSR, Hooks, Redux, React Hook Form)
-**UI/UX:** Tailwind CSS • Shadcn/UI • DaisyUI
-**Backend & Database:** Prisma • SQL • Schema Design
-**Cloud & DevOps:** Firebase • Azure • AWS • GitHub Actions • Docker
-**Version Control:** Git & GitHub
+**Frontend:** React.js • Next.js (App Router, SSR/CSR, Hooks, Redux, React Hook Form)  
+**UI/UX:** Tailwind CSS • Shadcn/UI • DaisyUI  
+**Backend & Database:** Prisma • SQL • Schema Design  
+**Cloud & DevOps:** Firebase • Azure • AWS • GitHub Actions • Docker  
+**Version Control:** Git & GitHub  
 
 ---
 
