@@ -30,7 +30,7 @@ Recently, I developed a **Marketplace Dashboard** — a professional e-commerce 
 
 🔹 [**AnsarolQuran Platform**](https://github.com/seyedahmaddv/ansarolquran) — Educational web app for Quran learning, using TypeScript and modern React features.
 
-🔹 [**Portfolio**](https://github.com/seyedahmaddv/seyedahmaddev2) — Personal portfolio built with Next.js and TailwindCSS to showcase projects and articles.
+🔹 [**Blog & Portfolio**](https://github.com/seyedahmaddv/seyedahmaddev2) — Personal portfolio built with Next.js and TailwindCSS to showcase projects and articles.
 
 🔹 [**Furniro React App**](https://github.com/seyedahmaddv/furniro-react-app) — E-commerce store with dynamic cart, responsive design, and modular components.
 
