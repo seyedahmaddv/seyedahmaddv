@@ -114,7 +114,7 @@ https://wa.me/989034260454
 
 📧 Email
 
-seyedahmaddv@gmail.com
+seyedahmaddev@gmail.com
 
 ---
 
