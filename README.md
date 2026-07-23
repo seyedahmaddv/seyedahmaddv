@@ -680,7 +680,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" alt="Footer" width="100%" />
 </p>
-
+🇮🇷 Persian → [README.fa.md](README.fa.md)
 <p align="center">
   <sub>
     <strong>© 2026 Seyed Ahmad Gholami</strong> &nbsp;·&nbsp;
