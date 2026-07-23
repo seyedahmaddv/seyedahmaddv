@@ -1,65 +1,130 @@
-# 👋 Hi, I'm Seyed Ahmad
-### 💻 Remote React.js & Next.js Developer
+👋 Hi, I'm Seyed Ahmad Gholami
 
-I build **scalable, performant, and user-friendly web applications** using modern frontend frameworks and cloud technologies.
-Passionate about clean code, component reusability, and delivering real business value through fast, accessible, and visually engaging UI.
+🚀 Remote Frontend Developer | Next.js • React • TypeScript • Headless WordPress
 
-Recently, I developed a **Marketplace Dashboard** — a professional e-commerce management platform that helps sellers manage products, orders, customers, and analytics in one place.
+I build fast, scalable, SEO-friendly, and user-focused web applications using modern frontend technologies.
 
-👉 [Live Demo](https://marketplace-seyedahmad.vercel.app/)
+My main expertise is developing Headless WordPress solutions with Next.js, helping businesses modernize their websites while preserving their existing WordPress CMS, SEO, and content.
 
----
-
-## 🚀 Tech Stack
-
-**Frontend:** React.js • Next.js (App Router, SSR/CSR, Hooks, Redux, React Hook Form)  
-**UI/UX:** Tailwind CSS • Shadcn/UI • DaisyUI  
-**Backend & Database:** Prisma • SQL • Schema Design  
-**Cloud & DevOps:** Firebase • Azure • AWS • GitHub Actions • Docker  
-**Version Control:** Git & GitHub  
+I enjoy turning complex ideas into clean, maintainable, and high-performance user experiences.
 
 ---
 
-## 📂 Featured Projects
+💡 What I Do
 
-🔹 [**Marketplace Dashboard**](https://marketplace-seyedahmad.vercel.app/) — Full-featured e-commerce management platform with product management, order tracking, customer messaging, and business analytics. Built with Next.js 16, TailwindCSS, Zustand, and Radix UI.
+- ⚛️ React.js & Next.js Development
+- 🌐 Headless WordPress Architecture
+- 🛒 WooCommerce Frontend Development
+- 🚀 Performance Optimization
+- 🔍 Technical SEO
+- 📱 Responsive & Accessible UI
+- 🎨 Modern UI Development with Tailwind CSS & shadcn/ui
+- 🔗 REST API Integration
+- ☁️ Deployment & CI/CD
 
-🔹 [**Landing Page for Iranian Products Export**](https://irantasdir.ir/) — A modern single-page website built with React to showcase and promote Iranian products for global export.
+---
 
-🔹 [**Hasan Tehrani Moghadam Card**](https://github.com/seyedahmaddv/hasan-tehrani-card) — Tribute profile card honoring Iran’s Father of Missile Program, built with HTML & CSS.
+🚀 Tech Stack
 
-🔹 [**AnsarolQuran Platform**](https://github.com/seyedahmaddv/ansarolquran) — Educational web app for Quran learning, using TypeScript and modern React features.
+Frontend
 
-🔹 [**Blog & Portfolio**](https://github.com/seyedahmaddv/seyedahmaddev2) — Personal portfolio built with Next.js and TailwindCSS to showcase projects and articles.
+- Next.js 16
+- React 19
+- TypeScript
+- JavaScript (ESNext)
+- HTML5
+- CSS3
 
-🔹 [**Furniro React App**](https://github.com/seyedahmaddv/furniro-react-app) — E-commerce store with dynamic cart, responsive design, and modular components.
+UI
 
-🔹 [**Pricing Tables & Plans**](https://github.com/seyedahmaddv/pricing-tables-plans) — Accessible, multi-language pricing UI built with React + TypeScript.
+- Tailwind CSS
+- shadcn/ui
+- Radix UI
+- DaisyUI
+- Material UI
 
-🔹 [**URL Shortener Project**](https://github.com/seyedahmaddv/shorten-link) — A Simple, Secure URL Shortener built with PHP and MySQL (PDO).
+Backend & Database
+
+- WordPress REST API
+- Prisma
+- SQL
+- PostgreSQL
+- Firebase
+
+DevOps & Cloud
+
+- Docker
+- GitHub Actions
+- Vercel
+- Azure
+- AWS
+
+Tools
+
+- Git
+- GitHub
+- VS Code
+- Figma
 
 
 ---
 
-## 🎓 Education
+🎯 Currently Learning
 
-**Master’s in Software Engineering**  
-Focused on web application architecture, performance optimization, and UX design principles.
-
----
-
-## 🌍 Interests
-
-Tech conferences • Programming challenges • Product design • Hiking • Yoga • Continuous learning  
+- Advanced Next.js Architecture
+- React Performance
+- AI-assisted Development
+- Scalable Frontend Systems
+- Modern Web Performance
 
 ---
 
-## 📬 Contact
+🤝 Open for Remote Work
 
-📧 **seyedahmaddv@gmail.com**  
-🌐 [LinkedIn](https://linkedin.com/in/seyedahmaddv)  
-💻 [Portfolio](https://SeyedAhmadDev.ir)
+I'm available for freelance and remote opportunities.
+
+If you're looking for a developer to build or modernize your website using Next.js, React, or Headless WordPress, I'd be happy to discuss your project.
+
+I can help you with:
+
+- Headless WordPress
+- Next.js Development
+- React Applications
+- WooCommerce Frontend
+- Technical SEO
+- Performance Optimization
+- Landing Pages
+- Dashboard Applications
 
 ---
 
-> ✨ “Code with clarity, design with empathy, and deliver with impact.”
+📬 Contact
+
+🌐 Portfolio
+
+https://seyedahmadgholami.ir
+
+💼 LinkedIn
+
+https://linkedin.com/in/seyedahmaddev
+
+💬 WhatsApp
+
+https://wa.me/989034260454
+
+📧 Email
+
+seyedahmaddv@gmail.com
+
+---
+
+⭐ Fun Facts
+
+- 💙 Passionate about clean architecture.
+- 🚀 Love building high-performance web applications.
+- 📚 Always learning new technologies.
+- 🌍 Available for remote collaboration worldwide.
+
+---
+
+«"Build fast. Design thoughtfully. Deliver value."»
