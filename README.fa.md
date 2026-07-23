@@ -549,8 +549,8 @@
   <a href="https://linkedin.com/in/seyedahmaddev" target="_blank">
     <img src="https://img.shields.io/badge/لینکدین-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="لینکدین" />
   </a>
-  <a href="https://wa.me/989034260454" target="_blank">
-    <img src="https://img.shields.io/badge/واتساپ-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="واتساپ" />
+  <a href="https://ble.ir/seyedahmaddeveloper" target="_blank">
+    <img src="https://img.shields.io/badge/واتساپ-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="پیامرسان بله" />
   </a>
   <a href="mailto:seyedahmaddev@gmail.com">
     <img src="https://img.shields.io/badge/ایمیل-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="ایمیل" />
